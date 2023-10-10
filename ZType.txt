@@ -1,0 +1,9 @@
+How to play ZType:
+
+1. Launch the game
+2. Pink words will starts falling down, choose a word to start typing
+3. Once a word turns blue, you can only continue to type that word, look at the falling blue word and start typing them as accurately and quickly as possible. 
+4. Type each letter in the word one by one. If you make a mistake, continue to type the correct letter.
+5. As you type each letter correctly, the word will start to get shorter. 
+6. Once you have typed the entire word correctly, it will be destroyed and you can start typing another word you see on screen.
+7.Be careful not to let the words reach the bottom of the screen. If a word reaches the bottom, the game is over.
